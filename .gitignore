@@ -1,6 +1,8 @@
 # Track only the application, launchers and required licenses.
 /*
 !/.gitignore
+!/README.md
+!/assets/
 !/LICENSE
 !/run.py
 !/start.bat
