@@ -261,12 +261,6 @@ ResearchPilot 支持研究准备与文献阅读。当前研究检索来源为 ar
 
 模型能力、服务权限、网络、额度与输出格式都会影响运行。公开体验站点、模拟接口测试和真实模型运行分别有不同的验证范围。
 
-## 参考与致谢
-
-- README 的组织参考 [HypoForge](https://github.com/Jyzan/HypoForge) 与 [PhysEval](https://github.com/Cryptic0429/PhysEval)。
-- 系统总览图根据 ResearchPilot 的实现原创生成，视觉组织参考 [Agent Laboratory](https://aclanthology.org/2025.findings-emnlp.320/) 与 [The AI Scientist-v2](https://arxiv.org/abs/2504.08066) 的阶段化研究系统 overview。
-- PDF 阅读使用 [PDF.js](https://github.com/mozilla/pdf.js)，随附组件与字体的许可见 [`static/vendor/pdfjs/`](static/vendor/pdfjs/)。
-
 ## 许可证
 
 项目原创代码采用 [MIT License](LICENSE)。第三方组件、论文内容与外部服务分别遵循其适用的许可和使用条款。
